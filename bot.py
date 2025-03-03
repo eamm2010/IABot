@@ -2,7 +2,7 @@ import discord
 from discord.ext import commands
 from model import predict_image, class_names
 
-TOKEN = "0MTI4NTI1NDI5ODkyNTY2NjM0NA.G8wB5i.YMcwkMvMC36OT5E4-w7G_XR2BSDCjhf2sO_gEw"
+TOKEN = "?"
 intents = discord.Intents.default()
 intents.message_content = True
 
